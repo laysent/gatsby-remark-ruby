@@ -1,0 +1,30 @@
+{
+  "name": "gatsby-remark-ruby",
+  "version": "0.1.0",
+  "description": "Gatsby plugin of remark-ruby, which uses custom syntax to write <ruby> in markdown",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "remark-ruby": "^0.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": {
+    "name": "LaySent",
+    "email": "laysent@gmail.com",
+    "url": "https://github.com/laysent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laysent/gatsby-remark-ruby.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "remark",
+    "markdown",
+    "ruby",
+    "furigana"
+  ]
+}
