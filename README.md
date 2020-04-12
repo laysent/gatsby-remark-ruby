@@ -18,7 +18,7 @@ In `gatsby-config.js` file, write the following:
   options: {
     plugins: [
       {
-        resolver: `gatsby-remark-ruby`,
+        resolve: `gatsby-remark-ruby`,
         options: {
           parenthesis: '()',
         },
